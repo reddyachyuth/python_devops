@@ -1,0 +1,13 @@
+Please do not redistribute for profit or copy any ideas without 
+acknowledgement.  This FAQ is part of my contribution to an effort to preserve 
+the memory and enjoyment of classic Apple II games.
+
+My home page http://www.geocities.com/SoHo/Exhibit/2762/
+24oo A. D. page http://www.geocities.com/SoHo/Exhibit/2762/2400/main.htm
+
+Current version:  0.2.0.  Although I have tried to be as thorough as I can on 
+my first pass, it is inevitable that I have missed something.  (Polite) 
+Feedback is appreciated!
+
+Warning!!!
+#This FAQ may give away vital parts of the game you don't want revealed yet.  

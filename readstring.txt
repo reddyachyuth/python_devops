@@ -1,0 +1,16 @@
+x = raw_input('What is your string')
+
+count = 0;
+
+for a in x :
+ if a = '('
+ count = count ++ ;
+ 
+ if else a = ')'
+ count = count --;
+ 
+if count = -1
+
+break(unbalanced string)
+
+if else 

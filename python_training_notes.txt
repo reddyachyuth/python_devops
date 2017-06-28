@@ -1,0 +1,7 @@
+try.jupyter.org
+
+pyflakes 
+
+creating a class, you are creating a brand new type.
+
+pep 8 coding
